@@ -6,12 +6,6 @@ topSections: []
 bottomSections: []
 layout: PostLayout
 author: content/data/team/dianne-ameter.json
-thumbImage:
-  elementId: ''
-  altText: lorem-ipsum
-  caption: lorem-ipsum
-  opacity: 100
-  type: ImageBlock
 ---
 ## Lorem ipsum
 
