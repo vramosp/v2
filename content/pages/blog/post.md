@@ -1,9 +1,7 @@
 ---
 title: This is my blog post
 date: '2021-10-13'
-excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
+excerpt: This is the blog post excerpt
 thumbImage:
   type: ImageBlock
   url: /images/post-1.jpeg
