@@ -2,9 +2,6 @@
 title: This is my blog post
 date: '2021-10-13'
 excerpt: This is the blog post excerpt
-thumbImage:
-  type: ImageBlock
-  altText: Post thumbnail image
 topSections: []
 bottomSections: []
 layout: PostLayout
