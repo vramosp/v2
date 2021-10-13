@@ -11,6 +11,7 @@ thumbImage:
 topSections: []
 bottomSections: []
 layout: PostLayout
+author: content/data/team/dianne-ameter.json
 ---
 ## Lorem ipsum
 
