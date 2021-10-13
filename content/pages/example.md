@@ -10,7 +10,7 @@ sections:
     topGap: large
     bottomGap: none
     textAlign: left
-    title: Join our club
+    title: This is my title
     text: >-
       We will notify you every time a shipment is heading to your neighborhood,
       and you could immediatly let us know if you want in or not.
@@ -110,7 +110,7 @@ sections:
     textAlign: left
     badge:
       label: New Website
-    title: The quick, brown fox jumps over a lazy dog
+    title: 'The quick, brown fox jumps over a lazy dog'
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
