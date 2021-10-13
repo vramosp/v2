@@ -114,27 +114,6 @@ sections:
         label: Get Started
         url: 'https://www.stackbit.com/'
         style: primary
-  - type: TextSection
-    colors: colors-f
-    width: wide
-    height: tall
-    contentWidth: small
-    contentAlignHoriz: center
-    contentAlignVert: middle
-    bottomGap: none
-    topGap: none
-    textAlign: center
-    badge:
-      label: Small text
-    title: The Section Title
-    subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
   - type: ContactSection
     variant: variant-b
     colors: colors-h
