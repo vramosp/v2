@@ -33,4 +33,5 @@ sections:
       url: /images/hero.png
       altText: Image alt text
 layout: PageLayout
+title: Landing
 ---
